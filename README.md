@@ -27,4 +27,4 @@ Kurulum işlemi oldukça kolaydır. SQL dosyasını MYSQL veritabanına içe akt
 ## <a name="license">Lisans</a>
 
  - Copyright (C) 2023-Present by [kadir](github.com/kadirrbayar)️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE](https://github.com/kadirrbayar/ASPNETCore-CV/blob/main/LICENSE)
+ - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE](https://github.com/kadirrbayar/PHP-Education-Exam/blob/main/LICENSE)
